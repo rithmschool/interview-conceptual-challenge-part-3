@@ -16,6 +16,6 @@
 6.  Explain what the bind function does in JavaScript?
 7.  What does `{ box-sizing: border-box; }` do in CSS?
 8.  What is hoisting?
-9.  Design [Checkers](https://en.wikipedia.org/wiki/Draughts) in Objected Oriented style. What classes would you create, what methods/properties would each class/instance have?
+9.  Design [Checkers](https://en.wikipedia.org/wiki/Draughts) in an Objected Oriented style. What classes would you create, what methods/properties would each class/instance have?
 10. Design a simple schema for AirBnB. What tables/columns/relationships would it have?
 11. Your users complain that the application you've built is too slow, what do you do?
